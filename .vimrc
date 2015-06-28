@@ -3,6 +3,7 @@ set sw=2
 syntax on
 set autoindent
 set expandtab
+set number
 
 :colorscheme torte
 
