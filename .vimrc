@@ -12,3 +12,4 @@ autocmd BufWritePre * :%s/\s\+$//e
 execute pathogen#infect()
 filetype plugin indent on
 
+set shell=/bin/bash
