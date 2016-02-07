@@ -1,0 +1,18 @@
+[global_config]
+  title_transmit_fg_color = "#c80003"
+[keybindings]
+[layouts]
+  [[default]]
+    [[[child1]]]
+      parent = window0
+      type = Terminal
+    [[[window0]]]
+      parent = ""
+      type = Window
+[plugins]
+[profiles]
+  [[default]]
+    background_darkness = 0.18
+    background_image = None
+    foreground_color = "#00ff00"
+    login_shell = True
